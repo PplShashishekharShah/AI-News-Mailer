@@ -2,9 +2,9 @@
   "name": "ai-mail",
   "version": "1.0.0",
   "description": "",
-  "main": "ai-news-emailer.js",
+  "main": "ai-news-emailer-GROQ.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ai-news-emailer-GROQ.js"
   },
   "keywords": [],
   "author": "",
